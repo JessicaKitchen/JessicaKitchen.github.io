@@ -1,6 +1,6 @@
 # JessicaKitchen.github.io
 
-# Original CS 330 Project
+# Enhancement Three: CS 330
+https://github.com/JessicaKitchen/Capstone-CS330.git
 
-# Self Assessment
 
